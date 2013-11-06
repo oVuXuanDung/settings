@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/vuxuandung/workspace/pxvww-app/app/views/portfolios'
+let g:netrw_dirhist_2='/Users/vuxuandung/workspace/pxvww-work/app/models/inquiry'
+let g:netrw_dirhist_3='/Users/vuxuandung/workspace/pxvww-work/app/views/home'
+let g:netrw_dirhist_4='/Users/vuxuandung/workspace/aventador'
+let g:netrw_dirhist_5='/Users/vuxuandung/workspace'
+let g:netrw_dirhist_6='/Users/vuxuandung/workspace/pxvww-work/app/models/attachment'
+let g:netrw_dirhist_7='/Users/vuxuandung/.ssh'
+let g:netrw_dirhist_8='/Users/vuxuandung/workspace/pmasp/rails/app/controllers/charges_by_contract'
+let g:netrw_dirhist_9='/Users/vuxuandung/workspace/pmasp/rails/resource/sanwa'
